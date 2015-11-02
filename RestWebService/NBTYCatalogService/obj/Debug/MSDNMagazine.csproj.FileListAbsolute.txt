@@ -1,0 +1,15 @@
+C:\Users\jon\Desktop\Docs\msdn\code\MSDNMagazine\MSDNMagazine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jon\Desktop\Docs\msdn\code\MSDNMagazine\MSDNMagazine\bin\MSDNMagazine.dll
+C:\Users\jon\Desktop\Docs\msdn\code\MSDNMagazine\MSDNMagazine\bin\MSDNMagazine.pdb
+C:\Users\jon\Desktop\Docs\msdn\code\MSDNMagazine\MSDNMagazine\obj\Debug\MSDNMagazine.dll
+C:\Users\jon\Desktop\Docs\msdn\code\MSDNMagazine\MSDNMagazine\obj\Debug\MSDNMagazine.pdb
+C:\Documents and Settings\LKasiraju.INET\Desktop\MSDNMagazine\MSDNMagazine\bin\MSDNMagazine.dll
+C:\Documents and Settings\LKasiraju.INET\Desktop\MSDNMagazine\MSDNMagazine\bin\MSDNMagazine.pdb
+C:\Documents and Settings\LKasiraju.INET\Desktop\MSDNMagazine\MSDNMagazine\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\LKasiraju.INET\Desktop\MSDNMagazine\MSDNMagazine\obj\Debug\MSDNMagazine.dll
+C:\Documents and Settings\LKasiraju.INET\Desktop\MSDNMagazine\MSDNMagazine\obj\Debug\MSDNMagazine.pdb
+C:\Documents and Settings\LKasiraju.INET\Desktop\Copy of MSDNMagazine\MSDNMagazine\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\LKasiraju.INET\Desktop\Copy of MSDNMagazine\MSDNMagazine\bin\NBTYCatalogService.dll
+C:\Documents and Settings\LKasiraju.INET\Desktop\Copy of MSDNMagazine\MSDNMagazine\bin\NBTYCatalogService.pdb
+C:\Documents and Settings\LKasiraju.INET\Desktop\Copy of MSDNMagazine\MSDNMagazine\obj\Debug\NBTYCatalogService.dll
+C:\Documents and Settings\LKasiraju.INET\Desktop\Copy of MSDNMagazine\MSDNMagazine\obj\Debug\NBTYCatalogService.pdb

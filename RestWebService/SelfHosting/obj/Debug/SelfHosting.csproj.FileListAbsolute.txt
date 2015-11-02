@@ -1,0 +1,45 @@
+C:\Users\jon\Desktop\Docs\msdn\code\MSDNMagazine\SelfHosting\bin\Debug\SelfHosting.exe
+C:\Users\jon\Desktop\Docs\msdn\code\MSDNMagazine\SelfHosting\bin\Debug\SelfHosting.pdb
+C:\Users\jon\Desktop\Docs\msdn\code\MSDNMagazine\SelfHosting\bin\Debug\MSDNMagazine.dll
+C:\Users\jon\Desktop\Docs\msdn\code\MSDNMagazine\SelfHosting\bin\Debug\MSDNMagazine.pdb
+C:\Users\jon\Desktop\Docs\msdn\code\MSDNMagazine\SelfHosting\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jon\Desktop\Docs\msdn\code\MSDNMagazine\SelfHosting\obj\Debug\SelfHosting.exe
+C:\Users\jon\Desktop\Docs\msdn\code\MSDNMagazine\SelfHosting\obj\Debug\SelfHosting.pdb
+C:\Documents and Settings\LKasiraju.INET\Desktop\MSDNMagazine\SelfHosting\bin\Debug\SelfHosting.exe.config
+C:\Documents and Settings\LKasiraju.INET\Desktop\MSDNMagazine\SelfHosting\obj\Debug\SelfHosting.exe
+C:\Documents and Settings\LKasiraju.INET\Desktop\MSDNMagazine\SelfHosting\obj\Debug\SelfHosting.pdb
+C:\Documents and Settings\LKasiraju.INET\Desktop\MSDNMagazine\SelfHosting\bin\Debug\SelfHosting.exe
+C:\Documents and Settings\LKasiraju.INET\Desktop\MSDNMagazine\SelfHosting\bin\Debug\SelfHosting.pdb
+C:\Documents and Settings\LKasiraju.INET\Desktop\MSDNMagazine\SelfHosting\bin\Debug\MSDNMagazine.dll
+C:\Documents and Settings\LKasiraju.INET\Desktop\MSDNMagazine\SelfHosting\bin\Debug\MSDNMagazine.pdb
+C:\Documents and Settings\LKasiraju.INET\Desktop\MSDNMagazine\SelfHosting\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\LKasiraju.INET\Desktop\Copy of MSDNMagazine\SelfHosting\bin\Debug\SelfHosting.exe.config
+C:\Documents and Settings\LKasiraju.INET\Desktop\Copy of MSDNMagazine\SelfHosting\obj\Debug\SelfHosting.exe
+C:\Documents and Settings\LKasiraju.INET\Desktop\Copy of MSDNMagazine\SelfHosting\obj\Debug\SelfHosting.pdb
+C:\Documents and Settings\LKasiraju.INET\Desktop\Copy of MSDNMagazine\SelfHosting\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\LKasiraju.INET\Desktop\Copy of MSDNMagazine\SelfHosting\bin\Debug\SelfHosting.exe
+C:\Documents and Settings\LKasiraju.INET\Desktop\Copy of MSDNMagazine\SelfHosting\bin\Debug\SelfHosting.pdb
+C:\Documents and Settings\LKasiraju.INET\Desktop\Copy of MSDNMagazine\SelfHosting\bin\Debug\NBTYCatalogService.dll
+C:\Documents and Settings\LKasiraju.INET\Desktop\Copy of MSDNMagazine\SelfHosting\bin\Debug\NBTYCatalogService.pdb
+C:\Documents and Settings\LKasiraju.INET\Desktop\NBTYCatalogService\SelfHosting\bin\Debug\SelfHosting.exe.config
+C:\Documents and Settings\LKasiraju.INET\Desktop\NBTYCatalogService\SelfHosting\obj\Debug\SelfHosting.exe
+C:\Documents and Settings\LKasiraju.INET\Desktop\NBTYCatalogService\SelfHosting\obj\Debug\SelfHosting.pdb
+C:\Documents and Settings\LKasiraju.INET\Desktop\NBTYCatalogService\SelfHosting\bin\Debug\SelfHosting.exe
+C:\Documents and Settings\LKasiraju.INET\Desktop\NBTYCatalogService\SelfHosting\bin\Debug\SelfHosting.pdb
+C:\Documents and Settings\LKasiraju.INET\Desktop\NBTYCatalogService\SelfHosting\bin\Debug\NBTYCatalogService.dll
+C:\Documents and Settings\LKasiraju.INET\Desktop\NBTYCatalogService\SelfHosting\bin\Debug\NBTYCatalogService.pdb
+C:\Documents and Settings\LKasiraju.INET\Desktop\NBTYCatalogService\SelfHosting\obj\Debug\ResolveAssemblyReference.cache
+F:\Development\ecomm_framework\NBTYCatalogService\trunk\SelfHosting\bin\Debug\SelfHosting.exe.config
+F:\Development\ecomm_framework\NBTYCatalogService\trunk\SelfHosting\obj\Debug\SelfHosting.exe
+F:\Development\ecomm_framework\NBTYCatalogService\trunk\SelfHosting\obj\Debug\SelfHosting.pdb
+F:\Development\ecomm_framework\NBTYCatalogService\trunk\SelfHosting\bin\Debug\SelfHosting.exe
+F:\Development\ecomm_framework\NBTYCatalogService\trunk\SelfHosting\bin\Debug\SelfHosting.pdb
+F:\Development\ecomm_framework\NBTYCatalogService\trunk\SelfHosting\bin\Debug\NBTYCatalogService.dll
+F:\Development\ecomm_framework\NBTYCatalogService\trunk\SelfHosting\bin\Debug\NBTYCatalogService.pdb
+F:\Development\ecomm_framework\NBTYCatalogService\trunk\SelfHosting\obj\Debug\ResolveAssemblyReference.cache
+F:\Development\ecomm_framework\NBTYCatalogService\trunk\SelfHosting\bin\Debug\entityFrameworkDemo.dll
+F:\Development\ecomm_framework\NBTYCatalogService\trunk\SelfHosting\bin\Debug\BusinessObjects.pdb
+F:\Development\ecomm_framework\NBTYCatalogService\trunk\SelfHosting\bin\Debug\entityFrameworkDemo.pdb
+F:\Development\ecomm_framework\NBTYCatalogService\trunk\SelfHosting\bin\Debug\BusinessObjects.exe
+F:\Development\ecomm_framework\NBTYCatalogService\trunk\SelfHosting\bin\Debug\BusinessServices.exe
+F:\Development\ecomm_framework\NBTYCatalogService\trunk\SelfHosting\bin\Debug\BusinessServices.pdb

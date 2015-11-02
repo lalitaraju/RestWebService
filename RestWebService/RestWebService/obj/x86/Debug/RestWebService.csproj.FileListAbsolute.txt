@@ -1,0 +1,4 @@
+C:\Repos\work\RestWebService\RestWebService\RestWebService\bin\Debug\RestWebService.exe
+C:\Repos\work\RestWebService\RestWebService\RestWebService\bin\Debug\RestWebService.pdb
+C:\Repos\work\RestWebService\RestWebService\RestWebService\obj\x86\Debug\RestWebService.exe
+C:\Repos\work\RestWebService\RestWebService\RestWebService\obj\x86\Debug\RestWebService.pdb

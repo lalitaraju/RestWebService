@@ -1,0 +1,156 @@
+<string>
+  <Category xmlns="DirectResponse.Catalog.BusinessObjects" xmlns:i="http://www.w3.org/2001/XMLSchema-instance" />
+  <ArrayOfCatalogProduct xmlns="http://schemas.datacontract.org/2004/07/DirectResponse.Catalog.BusinessObjects" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <CatalogProduct>
+      <CompanySuffix>70</CompanySuffix>
+      <DisplaySku>012785</DisplaySku>
+      <Id>100000</Id>
+      <PageNo>1</PageNo>
+      <ProductId>10001</ProductId>
+      <Quantity>0</Quantity>
+      <ServiceUri>http://localhost:8081/puritan/com/1000/10001/products?</ServiceUri>
+      <Sort>AtoZ</Sort>
+      <Volume>1</Volume>
+      <Weight>0</Weight>
+    </CatalogProduct>
+    <CatalogProduct>
+      <CompanySuffix>11</CompanySuffix>
+      <DisplaySku>015995</DisplaySku>
+      <Id>100001</Id>
+      <PageNo>1</PageNo>
+      <ProductId>10002</ProductId>
+      <Quantity>0</Quantity>
+      <ServiceUri>http://localhost:8081/puritan/com/1000/10002/products?</ServiceUri>
+      <Sort>AtoZ</Sort>
+      <Volume>244.608</Volume>
+      <Weight>2.3625</Weight>
+    </CatalogProduct>
+    <CatalogProduct>
+      <CompanySuffix>70</CompanySuffix>
+      <DisplaySku>083559</DisplaySku>
+      <Id>100002</Id>
+      <PageNo>1</PageNo>
+      <ProductId>10003</ProductId>
+      <Quantity>0</Quantity>
+      <ServiceUri>http://localhost:8081/puritan/com/1000/10003/products?</ServiceUri>
+      <Sort>AtoZ</Sort>
+      <Volume>1</Volume>
+      <Weight>0</Weight>
+    </CatalogProduct>
+    <CatalogProduct>
+      <CompanySuffix>70</CompanySuffix>
+      <DisplaySku>083561</DisplaySku>
+      <Id>100003</Id>
+      <PageNo>1</PageNo>
+      <ProductId>10004</ProductId>
+      <Quantity>0</Quantity>
+      <ServiceUri>http://localhost:8081/puritan/com/1000/10004/products?</ServiceUri>
+      <Sort>AtoZ</Sort>
+      <Volume>1</Volume>
+      <Weight>0</Weight>
+    </CatalogProduct>
+    <CatalogProduct>
+      <CompanySuffix>70</CompanySuffix>
+      <DisplaySku>083562</DisplaySku>
+      <Id>100004</Id>
+      <PageNo>1</PageNo>
+      <ProductId>10005</ProductId>
+      <Quantity>0</Quantity>
+      <ServiceUri>http://localhost:8081/puritan/com/1000/10005/products?</ServiceUri>
+      <Sort>AtoZ</Sort>
+      <Volume>1</Volume>
+      <Weight>0</Weight>
+    </CatalogProduct>
+    <CatalogProduct>
+      <CompanySuffix>70</CompanySuffix>
+      <DisplaySku>083563</DisplaySku>
+      <Id>100005</Id>
+      <PageNo>1</PageNo>
+      <ProductId>10006</ProductId>
+      <Quantity>0</Quantity>
+      <ServiceUri>http://localhost:8081/puritan/com/1000/10006/products?</ServiceUri>
+      <Sort>AtoZ</Sort>
+      <Volume>1</Volume>
+      <Weight>0</Weight>
+    </CatalogProduct>
+    <CatalogProduct>
+      <CompanySuffix>70</CompanySuffix>
+      <DisplaySku>083565</DisplaySku>
+      <Id>100006</Id>
+      <PageNo>1</PageNo>
+      <ProductId>10007</ProductId>
+      <Quantity>0</Quantity>
+      <ServiceUri>http://localhost:8081/puritan/com/1000/10007/products?</ServiceUri>
+      <Sort>AtoZ</Sort>
+      <Volume>1</Volume>
+      <Weight>0</Weight>
+    </CatalogProduct>
+  </ArrayOfCatalogProduct>
+  <ArrayOfCatalogCategory xmlns="http://schemas.datacontract.org/2004/07/DirectResponse.Catalog.BusinessObjects" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <CatalogCategory>
+      <CatalogCategoryId>10047</CatalogCategoryId>
+      <CategoryId>10001</CategoryId>
+      <CompanySuffix>11</CompanySuffix>
+      <DisplayName>Children's Vitamins</DisplayName>
+      <ProductSort>Undefined</ProductSort>
+      <Rank>0</Rank>
+      <ServiceUri>http://localhost:8081/puritan/com/1000/10046/10047/categories?sort=AtoZ</ServiceUri>
+      <Sort>AtoZ</Sort>
+      <SortName>Children's Vitamins</SortName>
+      <Visibility>On</Visibility>
+    </CatalogCategory>
+  </ArrayOfCatalogCategory>
+  <ArrayOfCatalogProduct xmlns="http://schemas.datacontract.org/2004/07/DirectResponse.Catalog.BusinessObjects" xmlns:i="http://www.w3.org/2001/XMLSchema-instance" />
+  <ArrayOfCatalogCategory xmlns="http://schemas.datacontract.org/2004/07/DirectResponse.Catalog.BusinessObjects" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <CatalogCategory>
+      <CatalogCategoryId>10060</CatalogCategoryId>
+      <CategoryId>10002</CategoryId>
+      <CompanySuffix>11</CompanySuffix>
+      <DisplayName>Eye Nutrients</DisplayName>
+      <ProductSort>Undefined</ProductSort>
+      <Rank>0</Rank>
+      <ServiceUri>http://localhost:8081/puritan/com/1000/10047/10060/categories?sort=AtoZ</ServiceUri>
+      <Sort>AtoZ</Sort>
+      <SortName>Eye Nutrients</SortName>
+      <Visibility>On</Visibility>
+    </CatalogCategory>
+    <CatalogCategory>
+      <CatalogCategoryId>10061</CatalogCategoryId>
+      <CategoryId>10004</CategoryId>
+      <CompanySuffix>11</CompanySuffix>
+      <DisplayName>Herbal Supplements</DisplayName>
+      <ProductSort>Undefined</ProductSort>
+      <Rank>0</Rank>
+      <ServiceUri>http://localhost:8081/puritan/com/1000/10047/10061/categories?sort=AtoZ</ServiceUri>
+      <Sort>AtoZ</Sort>
+      <SortName>Herbal Supplements</SortName>
+      <Visibility>On</Visibility>
+    </CatalogCategory>
+    <CatalogCategory>
+      <CatalogCategoryId>10066</CatalogCategoryId>
+      <CategoryId>10007</CategoryId>
+      <CompanySuffix>11</CompanySuffix>
+      <DisplayName>Pet Vitamins</DisplayName>
+      <ProductSort>Undefined</ProductSort>
+      <Rank>0</Rank>
+      <ServiceUri>http://localhost:8081/puritan/com/1000/10047/10066/categories?sort=AtoZ</ServiceUri>
+      <Sort>AtoZ</Sort>
+      <SortName>Pet Vitamins</SortName>
+      <Visibility>On</Visibility>
+    </CatalogCategory>
+    <CatalogCategory>
+      <CatalogCategoryId>10067</CatalogCategoryId>
+      <CategoryId>10008</CategoryId>
+      <CompanySuffix>11</CompanySuffix>
+      <DisplayName>Soy Products</DisplayName>
+      <ProductSort>Undefined</ProductSort>
+      <Rank>0</Rank>
+      <ServiceUri>http://localhost:8081/puritan/com/1000/10047/10067/categories?sort=AtoZ</ServiceUri>
+      <Sort>AtoZ</Sort>
+      <SortName>Soy Products</SortName>
+      <Visibility>On</Visibility>
+    </CatalogCategory>
+  </ArrayOfCatalogCategory>
+  <ArrayOfCatalogProduct xmlns="http://schemas.datacontract.org/2004/07/DirectResponse.Catalog.BusinessObjects" xmlns:i="http://www.w3.org/2001/XMLSchema-instance" />
+  <ArrayOfCatalogCategory xmlns="http://schemas.datacontract.org/2004/07/DirectResponse.Catalog.BusinessObjects" xmlns:i="http://www.w3.org/2001/XMLSchema-instance" />
+</string>

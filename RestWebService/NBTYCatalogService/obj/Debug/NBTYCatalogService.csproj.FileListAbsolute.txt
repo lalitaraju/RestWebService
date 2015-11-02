@@ -1,0 +1,24 @@
+C:\Documents and Settings\LKasiraju.INET\Desktop\Copy of MSDNMagazine\MSDNMagazine\bin\NBTYCatalogService.dll
+C:\Documents and Settings\LKasiraju.INET\Desktop\Copy of MSDNMagazine\MSDNMagazine\bin\NBTYCatalogService.pdb
+C:\Documents and Settings\LKasiraju.INET\Desktop\Copy of MSDNMagazine\MSDNMagazine\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\LKasiraju.INET\Desktop\Copy of MSDNMagazine\MSDNMagazine\obj\Debug\NBTYCatalogService.dll
+C:\Documents and Settings\LKasiraju.INET\Desktop\Copy of MSDNMagazine\MSDNMagazine\obj\Debug\NBTYCatalogService.pdb
+C:\Documents and Settings\LKasiraju.INET\Desktop\Copy of MSDNMagazine\NBTYCatalogService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\LKasiraju.INET\Desktop\Copy of MSDNMagazine\NBTYCatalogService\obj\Debug\NBTYCatalogService.dll
+C:\Documents and Settings\LKasiraju.INET\Desktop\Copy of MSDNMagazine\NBTYCatalogService\obj\Debug\NBTYCatalogService.pdb
+C:\Documents and Settings\LKasiraju.INET\Desktop\NBTYCatalogService\NBTYCatalogService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\LKasiraju.INET\Desktop\NBTYCatalogService\NBTYCatalogService\obj\Debug\NBTYCatalogService.dll
+C:\Documents and Settings\LKasiraju.INET\Desktop\NBTYCatalogService\NBTYCatalogService\obj\Debug\NBTYCatalogService.pdb
+C:\Documents and Settings\LKasiraju.INET\Desktop\NBTYCatalogService\NBTYCatalogService\bin\NBTYCatalogService.dll
+C:\Documents and Settings\LKasiraju.INET\Desktop\NBTYCatalogService\NBTYCatalogService\bin\NBTYCatalogService.pdb
+F:\Development\ecomm_framework\NBTYCatalogService\trunk\NBTYCatalogService\bin\NBTYCatalogService.dll
+F:\Development\ecomm_framework\NBTYCatalogService\trunk\NBTYCatalogService\bin\NBTYCatalogService.pdb
+F:\Development\ecomm_framework\NBTYCatalogService\trunk\NBTYCatalogService\obj\Debug\ResolveAssemblyReference.cache
+F:\Development\ecomm_framework\NBTYCatalogService\trunk\NBTYCatalogService\obj\Debug\NBTYCatalogService.dll
+F:\Development\ecomm_framework\NBTYCatalogService\trunk\NBTYCatalogService\obj\Debug\NBTYCatalogService.pdb
+F:\Development\ecomm_framework\NBTYCatalogService\trunk\NBTYCatalogService\bin\entityFrameworkDemo.dll
+F:\Development\ecomm_framework\NBTYCatalogService\trunk\NBTYCatalogService\bin\BusinessObjects.pdb
+F:\Development\ecomm_framework\NBTYCatalogService\trunk\NBTYCatalogService\bin\entityFrameworkDemo.pdb
+F:\Development\ecomm_framework\NBTYCatalogService\trunk\NBTYCatalogService\bin\BusinessObjects.exe
+F:\Development\ecomm_framework\NBTYCatalogService\trunk\NBTYCatalogService\bin\BusinessServices.exe
+F:\Development\ecomm_framework\NBTYCatalogService\trunk\NBTYCatalogService\bin\BusinessServices.pdb
